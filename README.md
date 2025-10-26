@@ -44,11 +44,11 @@ This **console-based C# application** tracks:
 
 ## 🧩 Features
 <div style="background-color:#fef4e8; padding:12px; border-radius:8px;">
-- ✅ Add new **menu items** and **books**  
-- ✅ Register **customers** and track their orders  
-- ✅ Borrow books (max **2 per customer**)  
-- ✅ Automatically return books when a customer leaves  
-- ✅ Display customer orders and book availability  
+- ✅ Add new menu items and books <br>
+- ✅ Register customers and track their orders  <br>
+- ✅ Borrow books (max 2 per customer)  <br>
+- ✅ Automatically return books when a customer leaves  <br>
+- ✅ Display customer orders and book availability  <br>
 - ✅ Console interface with structured output  
 </div>
 
@@ -56,9 +56,9 @@ This **console-based C# application** tracks:
 
 ## ⚙️ Technologies Used
 <div style="background-color:#e8fdf5; padding:12px; border-radius:8px;">
-- **C#** (Console Application)  
-- **.NET Core / .NET 6**  
-- Object-Oriented Programming (OOP)  
+- C# (Console Application)  <br>
+- .NET Core / .NET 6 <br> 
+- Object-Oriented Programming (OOP)  <br>
 - Lists, Enums, Classes, Encapsulation, Composition  
 </div>
 
